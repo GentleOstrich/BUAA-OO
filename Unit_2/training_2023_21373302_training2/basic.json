@@ -1,0 +1,5 @@
+{
+  "8": "extends Thread",
+  "9": "new Thread(process2).start();",
+  "10": "C"
+}
